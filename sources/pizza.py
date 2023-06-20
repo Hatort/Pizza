@@ -22,6 +22,10 @@ RECIPES = {
         'ingredients': {'mozzarella': 3, 'pepper': 4, 'onion': 3},
         'price': 11,
     },
+    'my pizza': {
+        'ingredients': {'mozzarella': 3, 'garlic': 5, 'onion': 2},
+        'price': 11,
+    },
     'margherita': {
         'ingredients': {'mozzarella': 2, 'oregano': 4},
         'price': 10,
@@ -41,9 +45,5 @@ RECIPES = {
         'ingredients': {'mozzarella': 4, 'oregano': 2, 'onion': 5, 'mushroom': 2},
         'price': 11,
         'sauce': 'tomato'
-    },
-    'my pizza': {
-        'ingredients': {'mozzarella': 3, 'garlic': 5, 'onion': 2},
-        'price': 11,
-    }
+    },    
 }
